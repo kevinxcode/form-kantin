@@ -1,0 +1,26 @@
+1. Explore Git form -> output Json '{"MENU":"AYAM PENYET", "HARGA":30}' // KARYAWAN  
+2. CI - Mysql free hosting
+ item: 
+ - MENU
+ - HARGA
+ - CATEGORY (1,2,3,4)
+ - NORMAL DAY (NORMAL) (0) NOT ACTIVE  (1)
+ - WEEKEND DAY (WEEKEND) (0) NOT ACTIVE (1)
+
+
+ 1. Explore Git form -> output Json '{"MENU":"AYAM PENYET", "HARGA":30}' // KARYAWAN  
+ item: 
+ - MENU indonesia
+ -  menu inggris
+ - HARGA full : 35000
+ - HARGA remark : 35K
+ - Default menu 1,0
+ - CATEGORY (1,2)
+ - NORMAL DAY (NORMAL) (0) NOT ACTIVE  (1)
+ - WEEKEND DAY (WEEKEND) (0) NOT ACTIVE (1)
+
+ notes : 1 - True 0 - False
+
+
+
+ output json 
