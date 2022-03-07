@@ -1,5 +1,6 @@
 1. Explore Git form -> output Json '{"MENU":"AYAM PENYET", "HARGA":30}' // KARYAWAN  
 2. CI - Mysql free hosting
+3. google form with python
  item: 
  - MENU
  - HARGA
